@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Steven Portfolio
 
-You can use the [editor on GitHub](https://github.com/Stevenodolf/StevenPortfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project 1: Transetter(Software Engineering)
+#### Team:
+1. Albert Lilian Thamson (2201754412)
+2. Daniel Santoso (2201756506)
+3. Kevin Gunawan (2201829981)
+4. Luwis Lim (2201761771)
+5. Rio Nagano (2201767232)
+6. Steven Odolf Yuwono (2201758045)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### Penjelasan:
+Transetter adalah sebuah aplikasi berbasis _mobile_ dimana kita bisa menentukkan harga termurah di sebuah perjalanan dan memesan langsung kendaraan yang akan kita gunakan. _User_ haya perlu memasukkan tempat tujuan dan tempat dimana user berada, maka aplikasi akah menyuguhkan beberapa pilihan transportasi beserta jadwalnya (Transjakarta, KRL, atau MRT) dengan berbagai range harga, jarak yang ditempuh, dan lama perjalanan yang akan ditempuh _user_. _User_ juga bisa menambahkan tujuan, jadi tidak hanya 1 tujuan saja namun _User_ dapat merencanakan perjalanan mereka dengan berbagai tujuan.
 
-### Markdown
+#### Kontribusi saya:
+Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe dan prototype untuk aplikasi ini dan juga membantu dalam _brainstorming_. Saya bersama dengan Daniel Santoso dan Luwis Lim berencana untuk melanjutkan proyek ini.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stevenodolf/StevenPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Prototype:
