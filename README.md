@@ -76,7 +76,7 @@ _**Klik judul diatas untuk membuka link proyek**_
 3. Steven Odolf Yuwono (2201758045)
 
 #### Penjelasan:
-Xtream Chaser website ini adalah sebuah proyek kelas HCI yang kita buat. Jadi diceritakkan Xtream Chaser ini adalah sebuah game company yang ingin membuat website untuk game dia yang sebentar lagi _launching_. Disini kita sebagai pembuat website ditugaskan untuk membuat website game ini dengan fitur yang diminta oleh company tersebut.
+Xtream Chaser website ini adalah sebuah proyek kelas HCI yang kita buat. Jadi diceritakkan Xtream Chaser ini adalah sebuah game company yang ingin membuat website untuk gamenya yang sebentar lagi _launching_. Disini kita sebagai tim pembuat website di company ini ditugaskan untuk membuat website game ini dengan fitur yang diminta oleh company tersebut.
 
 #### Kontribusi saya:
 Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, dan footer dan juga saya mengcoding di bagian Homepage(HTML, CSS) dan Pre-Register(JS).
@@ -120,6 +120,9 @@ _**Klik judul diatas untuk membuka link proyek**_
 
 #### Penjelasan:
 Profanity Checker adalah sebuah program yang bisa memdeteksi apakah ada kata yang kotor di dalam sebuah kalimat menggunakan Artificial Intelligence. Kami sudah melakukan beberapa percobaan dengan cara membagi dataset training dengan dataset test menjadi beberapa perbandingan mulai dari 70/30, 80/20, 90/10. Di akhir pecobaan kami, kami mendapatkan bahwa percobaan dengan dataset 70/30 mempunyai lebih besar akurasinya daripada yang lain.
+
+#### Kontribusi saya:
+Kontribusi saya dalam proyek ini adalah saya membantu di bagian coding beserta membantu untuk membersihkan dataset nya.
 
 #### Percobaan:
 ##### 70:
