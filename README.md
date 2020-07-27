@@ -56,6 +56,7 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 | ![Select Destination](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![Select Transportation](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![Navigation](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
 
 ## [Project 3: Bama Studio Website(Human and Computer Interaction)](https://github.com/Stevenodolf/Stevenodolf-BamaStudio-Project)
+_**Klik judul diatas untuk membuka link proyek**_
 #### Penjelasan:
 Bama Studio Website adalah sebuah proyek Quiz. Jadi diceritakkan Bama Studio ini ingin membuat sebuah website untuk mempromosikkan jualannya yaitu tas. Bama Studio juga akan mengeluarkan tas edisi terbarunya, jadi dia mau membuat website untuk mempromosikkan tas nya yang akan segera di keluarkan dalam waktu dekat.
 
@@ -68,6 +69,7 @@ Bama Studio Website adalah sebuah proyek Quiz. Jadi diceritakkan Bama Studio ini
 
 
 ## [Project 4: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
+_**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Alif Winanda
 2. Luwis Lim (2201761771)
@@ -84,6 +86,7 @@ Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, 
 ![Homepage 2](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
 
 ## [Project 5: BSSC Website (BINUS Square Student Committee)](www.bssc.or.id)
+_**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Steven Odolf Yuwono (Project Director & Design Team)
 2. Tiffany Ciangsawira (Project Manager & Design Team)
@@ -108,6 +111,7 @@ Pada proyek ini, saya berkontribusi di dalam mengatur tim dan mengawasi project 
 | ![Division](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Division.png "Division") | ![Event](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Events%20Page.png "Event") |
 
 ## [Project 6: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
+_**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Albert Lilian Thamson (2201754412)
 2. Daniel Santoso (2201756506)
@@ -134,6 +138,7 @@ Profanity Checker adalah sebuah program yang bisa memdeteksi apakah ada kata yan
 ![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/percobaan(90).png "Percobaan")
 
 ## [Project 7: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
+_**Klik judul diatas untuk membuka link proyek**_
 #### Penjelasan:
 Wine Classification adalah sebuah program yang bisa mengklasifikasikan kualitas wine berdasarkan beberapa kategori yaitu volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol. Algorithm yang dipakai adalah BPNN, Output dari classification ini merupakan accuracy dari algorithm tersebut.
 
