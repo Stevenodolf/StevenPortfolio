@@ -85,7 +85,7 @@ Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, 
 ![Homepage 1](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
 ![Homepage 2](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
 
-## [Project 5: BSSC Website (BINUS Square Student Committee)](www.bssc.or.id)
+## [Project 5: BSSC Website (BINUS Square Student Committee)](https://www.bssc.or.id/)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Steven Odolf Yuwono (Project Director & Design Team)
