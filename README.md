@@ -18,15 +18,15 @@ Pada proyek ini, saya berkontribusi di ide yaitu membuat aplikasi tentang diabet
 
 | Splash Screen      | First Login(Biodata)         | First Login(Add Medicine)       | Add Medicine        |
 | ------------- |-------------| -------------| ------------- |
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Splash%20Screen.png "Splash Screen") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/First%20Login.png "First Login(Biodata)") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Second%20Login%20Screen.png "First Login(Add Medicine)") |  ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Add%20Medicine.png "Add Medicine") |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Splash%20Screen.png "Splash Screen") | ![First Login(Biodata)](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/First%20Login.png "First Login(Biodata)") | ![First Login(Add Medicine)](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Second%20Login%20Screen.png "First Login(Add Medicine)") |  ![Add Medicine](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Add%20Medicine.png "Add Medicine") |
 
 | First Login(Start)      | Sugar Stat        | Reminder       | Diet Plan        |
 | ------------- |-------------| -------------| -------------|
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Second%20Login%20Screen%20%E2%80%93%201.png "First Login(Start)") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Sugar%20Stat.png "Sugar Stat") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Reminder.png "Reminder") |  ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Diet%20Plan%20%E2%80%93%201.png "Diet Plan") |
+| ![First Login(Start)](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Second%20Login%20Screen%20%E2%80%93%201.png "First Login(Start)") | ![Sugar Stat](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Sugar%20Stat.png "Sugar Stat") | ![Reminder](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Reminder.png "Reminder") |  ![Diet Plan](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Diet%20Plan%20%E2%80%93%201.png "Diet Plan") |
 
 | Challenges      | Description Recipe        |
 | ------------- | ------------- |
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Challenge.png "Challenges") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Desc%20Breakfast.png "Description Recipe") |
+| ![Challenges](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Challenge.png "Challenges") | ![Description Recipe](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Desc%20Breakfast.png "Description Recipe") |
 
 
 ## Project 2: Transetter(Software Engineering)
@@ -48,14 +48,26 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 
 | Splash Screen      | Main Menu         | Saved Place        |
 | ------------- |-------------| -------------|
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Saved%20Place.jpg "Saved Place") |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![Main Menu](https://Stevenodolf.github.io/StevenPortfolio/images/Main%20Menu.jpg "Main Menu") | ![Saved Place](https://Stevenodolf.github.io/StevenPortfolio/images/Saved%20Place.jpg "Saved Place") |
 
 
 | Select Destination      | Select Transportation         | Navigation        |
 | ------------- | ------------- | -------------|
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
+| ![Select Destination](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![Select Transportation](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![Navigation](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
 
-## Project 3: Xtream Chaser Website (Human and Computer Interaction)
+## [Project 3: Bama Studio Website(Human and Computer Interaction)](https://github.com/Stevenodolf/Stevenodolf-BamaStudio-Project)
+#### Penjelasan:
+Bama Studio Website adalah sebuah proyek Quiz. Jadi diceritakkan Bama Studio ini ingin membuat sebuah website untuk mempromosikkan jualannya yaitu tas. Bama Studio juga akan mengeluarkan tas edisi terbarunya, jadi dia mau membuat website untuk mempromosikkan tas nya yang akan segera di keluarkan dalam waktu dekat.
+
+#### Screenshot:
+
+![Bama 1](https://Stevenodolf.github.io/StevenPortfolio/images/Bama%20Studio/Bama%201.jpg "Bama 1")
+![Bama 2](https://Stevenodolf.github.io/StevenPortfolio/images/Bama%20Studio/Bama%202.jpg "Bama 2")
+![Bama 3](https://Stevenodolf.github.io/StevenPortfolio/images/Bama%20Studio/Bama%203.jpg "Bama 3")
+![Bama 4](https://Stevenodolf.github.io/StevenPortfolio/images/Bama%20Studio/Bama%204.jpg "Bama 4")
+
+
+## [Project 4: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
 #### Team:
 1. Alif Winanda
 2. Luwis Lim (2201761771)
@@ -68,10 +80,10 @@ Xtream Chaser website ini adalah sebuah proyek kelas HCI yang kita buat. Jadi di
 Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, dan footer dan juga saya mengcoding di bagian Homepage(HTML, CSS) dan Pre-Register(JS).
 
 #### Homepage:
-![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
-![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
+![Homepage 1](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
+![Homepage 2](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
 
-## Project 4: BSSC Website (BINUS Square Student Committee)
+## [Project 5: BSSC Website (BINUS Square Student Committee)](www.bssc.or.id)
 #### Team:
 1. Steven Odolf Yuwono (Project Director & Design Team)
 2. Tiffany Ciangsawira (Project Manager & Design Team)
@@ -95,7 +107,7 @@ Pada proyek ini, saya berkontribusi di dalam mengatur tim dan mengawasi project 
 | ------------- | ------------- |
 | ![Division](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Division.png "Division") | ![Event](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Events%20Page.png "Event") |
 
-## Project 5: Indonesia Profanity Checker (Natural Language Processing)
+## [Project 6: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
 #### Team:
 1. Albert Lilian Thamson (2201754412)
 2. Daniel Santoso (2201756506)
@@ -120,3 +132,11 @@ Profanity Checker adalah sebuah program yang bisa memdeteksi apakah ada kata yan
 
 ![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/acc(90).png "Accuracy")
 ![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/percobaan(90).png "Percobaan")
+
+## [Project 7: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
+#### Penjelasan:
+Wine Classification adalah sebuah program yang bisa mengklasifikasikan kualitas wine berdasarkan beberapa kategori yaitu volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol. Algorithm yang dipakai adalah BPNN, Output dari classification ini merupakan accuracy dari algorithm tersebut.
+
+#### Percobaan:
+
+![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/ANN/Accuracy.jpg "Accuracy")
