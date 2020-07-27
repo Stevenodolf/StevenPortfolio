@@ -21,9 +21,9 @@ Logo By Daniel Santoso (2201756506)
 
 | Splash Screen      | Main Menu         | Saved Place        |
 | ------------- |-------------| -------------|
-| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Saved%20Place.jpg "Saved Place") |
+| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Saved%20Place.jpg "Saved Place") |
 
 
 | Select Destination      | Select Transportation         | Navigation        |
 | ------------- |-------------| -------------|
-| ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Destination%20Screen.jpg "Select Destination") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Select%20Transportation.jpg "Select Transportation") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Navigation.jpg "Navigation") |
+| ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
