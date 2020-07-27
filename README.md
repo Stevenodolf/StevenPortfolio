@@ -21,7 +21,7 @@ Logo By Daniel Santoso (2201756506)
 
 | Splash Screen      | Main Menu         | Saved Place        |
 | ------------- |-------------| -------------|
-| ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Saved%20Place.jpg "Saved Place") |
+| ![Splash Screen](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://github.com/Stevenodolf/StevenPortfolio/blob/master/images/Saved%20Place.jpg "Saved Place") |
 
 
 | Select Destination      | Select Transportation         | Navigation        |
