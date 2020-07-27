@@ -55,4 +55,68 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 | ------------- | ------------- | -------------|
 | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
 
-## Project 3: Indonesia Profanity Checker (Natural 
+## Project 3: Xtream Chaser Website (Human and Computer Interaction)
+#### Team:
+1. Alif Winanda
+2. Luwis Lim (2201761771)
+3. Steven Odolf Yuwono (2201758045)
+
+#### Penjelasan:
+Xtream Chaser website ini adalah sebuah proyek kelas HCI yang kita buat. Jadi diceritakkan Xtream Chaser ini adalah sebuah game company yang ingin membuat website untuk game dia yang sebentar lagi _launching_. Disini kita sebagai pembuat website ditugaskan untuk membuat website game ini dengan fitur yang diminta oleh company tersebut.
+
+#### Kontribusi saya:
+Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, dan footer dan juga saya mengcoding di bagian Homepage(HTML, CSS) dan Pre-Register(JS).
+
+#### Homepage:
+![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
+![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
+
+## Project 4: BSSC Website (BINUS Square Student Committee)
+#### Team:
+1. Steven Odolf Yuwono (Project Director & Design Team)
+2. Tiffany Ciangsawira (Project Manager & Design Team)
+3. Michael Liong (Design Team)
+4. Bernhard Owen J (Coding Team)
+5. Aric Hernando (Coding Team)
+
+#### Penjelasan:
+Website ini adalah sebuah proyek dimana kita berencana untuk mengganti website BSSC yang sudah usang menjadi yang lebih baru lagi dan lebih baik. Mengangkat tema "_Simple And Informative_" menjadikkan website ini berdesain simpel dan informasi yang ada dapat didapatkan dengan mudah di website ini. Untuk webiste nya sendiri bisa di check di www.bssc.or.id
+
+#### Kontribusi saya:
+Pada proyek ini, saya berkontribusi di dalam mengatur tim dan mengawasi project manager, serta juga ambil andil didalam pembuatan wireframe website.
+
+#### Wireframe:
+
+| Homepage      | Structure         |
+| ------------- | ------------- |
+| ![Homepage](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Homepage.png "Homepage") | ![Structure](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Structure.png "Structure") |
+
+| Division     | Event         |
+| ------------- | ------------- |
+| ![Division](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Division.png "Division") | ![Event](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Events%20Page.png "Event") |
+
+## Project 5: Indonesia Profanity Checker (Natural Language Processing)
+#### Team:
+1. Albert Lilian Thamson (2201754412)
+2. Daniel Santoso (2201756506)
+3. Luwis Lim (2201761771)
+4. Steven Odolf Yuwono (2201758045)
+
+#### Penjelasan:
+Profanity Checker adalah sebuah program yang bisa memdeteksi apakah ada kata yang kotor di dalam sebuah kalimat menggunakan Artificial Intelligence. Kami sudah melakukan beberapa percobaan dengan cara membagi dataset training dengan dataset test menjadi beberapa perbandingan mulai dari 70/30, 80/20, 90/10. Di akhir pecobaan kami, kami mendapatkan bahwa percobaan dengan dataset 70/30 mempunyai lebih besar akurasinya daripada yang lain.
+
+#### Percobaan:
+##### 70:
+
+![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/70/acc(70).png "Accuracy")
+![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/70/percobaan(70).png "Percobaan")
+
+##### 80:
+
+![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/80/acc(80).png "Accuracy")
+![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/80/percobaan(80).png "Percobaan")
+
+##### 90:
+
+![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/acc(90).png "Accuracy")
+![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/percobaan(90).png "Percobaan")
