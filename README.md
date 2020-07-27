@@ -12,7 +12,7 @@
 ByeDiabet adalah sebuah aplikasi berbasis mobile. Aplikasi ini bertujuan untuk membantu _user_ agar bisa mengamati perkembangan gula dalam darah mereka dan juga membantu _user_ untuk melakukan program diet agar bisa menjaga gula di dalam darah. Aplikasi ini juga menyuguhkan fitur _Sugar Stat_ dimana kita bisa melihat perkembangan gula darah perbulan. Di aplikasi ini juga disuguhkan fitur _challenge_ dimana _user_ dapat memenuhi tantangan - tantangan yang diberi dan jika _user_ berhasil memenuhi tantangan yang diberikan maka akan ada _reward_. Selain fitur _challenge_ juga ada fitur _reminder_ yang digunakan untu mengingatkan _user_ untuk meminum obat diabet mereka.
 
 #### Kontribusi saya:
-Pada proyek ini, saya berkontribusi di ide yaitu membuat aplikasi tentang diabet, melakukan research, dan membuat wireframe.
+Pada proyek ini, saya berkontribusi di ide yaitu membuat aplikasi tentang diabet, melakukan _research_, dan membuat wireframe.
 
 #### Wireframe:
 
