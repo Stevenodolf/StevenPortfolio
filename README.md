@@ -15,8 +15,9 @@ ByeDiabet adalah sebuah aplikasi berbasis mobile. Aplikasi ini bertujuan untuk m
 Pada proyek ini, saya berkontribusi di ide yaitu membuat aplikasi tentang diabet, melakukan research, dan membuat wireframe.
 
 #### Wireframe:
+
 | Splash Screen      | First Login(Biodata)         | First Login(Add Medicine)       | Add Medicine        |
-| ------------- |-------------| -------------| -------------|
+| ------------- |-------------| -------------| ------------- |
 | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Splash%20Screen.png "Splash Screen") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/First%20Login.png "First Login(Biodata)") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Second%20Login%20Screen.png "First Login(Add Medicine)") |  ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Add%20Medicine.png "Add Medicine") |
 
 | First Login(Start)      | Sugar Stat        | Reminder       | Diet Plan        |
@@ -44,6 +45,7 @@ Transetter adalah sebuah aplikasi berbasis _mobile_ dimana kita bisa menentukkan
 Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplikasi ini dan juga membantu dalam _brainstorming_. Saya bersama dengan Daniel Santoso dan Luwis Lim berencana untuk melanjutkan proyek ini.
 
 #### Wireframe:
+
 | Splash Screen      | Main Menu         | Saved Place        |
 | ------------- |-------------| -------------|
 | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Main%20Menu.jpg "Main Menu") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Saved%20Place.jpg "Saved Place") |
@@ -52,3 +54,5 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 | Select Destination      | Select Transportation         | Navigation        |
 | ------------- | ------------- | -------------|
 | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![alt text](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
+
+## Project 3: Indonesia Profanity Checker (Natural 
