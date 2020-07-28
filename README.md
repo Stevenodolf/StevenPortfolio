@@ -5,7 +5,7 @@
 1. Christian Surjanto
 2. Cindy Wu
 3. David Wang
-4. Wison Adrilia
+4. Wilson Adrilia
 5. Steven Odolf Yuwono
 
 #### Penjelasan:
@@ -84,7 +84,47 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 | ------------- | ------------- | -------------|
 | ![Select Destination](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Destination%20Screen.jpg "Select Destination") | ![Select Transportation](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Select%20Transportation.jpg "Select Transportation") | ![Navigation](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Navigation.jpg "Navigation") |
 
-## [Project 4: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
+## Project 4: Pop Legal (Software Engineering)
+#### Penjelasan:
+Proyek ini adalah proyek untuk UTS. Saya diberikan tugas untuk membuat sebuah UI dari sebuah company bernama Pop Legal. Jadi company ini akan membuat sebuah aplikasi _mobile_ yang nantinya akan menghubungkan profesional hukum(pengacara dan notaris) dengan pelanggan. Fitur yang harus ada di aplikasi tersebut adalah:
+1. _User_ bisa memilih profesional hukum yang mereka mau
+2. _User_ bisa melihat apakah request mereka diterima atau tidak oleh profesional hukum yang mereka pilih
+3. Fitur chat antara _User_ dengan profesional hukum
+4. _Feedback_ dari kedua belah pihak
+
+#### Wireframe:
+
+| Splash Screen      | Welcome Screen         | Sign In       | Main Menu (Advocate or notary)       |
+| ------------- |-------------| -------------| ------------- |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Splash%20Screen.png "Splash Screen") | ![Welcome Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Welcome%20Screen.png "Welcome Screen") | ![Sign In](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Sign%20In.png "Sign In") |  ![Main Menu 1](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Professional-Notary%2C%20Click.png "Main Menu (Advocate or notary)") |
+
+| Main Menu (Chat)     | Main Menu (Feedback)        | Main Menu (Personal Tab Info)       | Feedback Screen        |
+| ------------- |-------------| -------------| ------------- |
+| ![Main Menu (Chat)](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Main%20Menu%20-%20Chat%20Bot.png "Main Menu (Chat)") | ![Main Menu (Feedback)](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Main%20Menu%20-%20Feedback.png "Main Menu (Feedback)") | ![Main Menu (Personal Tab Info)](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Main%20Menu%20-%20Persona%20Information%20Tab.png "Main Menu (Personal Tab Info)") |  ![Feedback Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Feedback%20-%20Feedback%20Screen.png "Feedback Screen") |
+
+| Chat Window      | Notary/Advocate info        |
+| ------------- | ------------- |
+| ![Chat Window](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Chat%20Bot%20-%20Chat%20Screen.png "Chat Window") | ![Notary/Advocate info](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Professional-Notary%2C%20Click.png "Notary/Advocate info") |
+
+
+## Project 5 : Sos Virus (Human and Computer Interaction)
+#### Penjelasan:
+Proyek ini adalah proyek untuk UTS. Untuk mengatasi penyebaran corona, pemerintah akan membuat sebuah aplikasi _tracking_ COVID-19. saya ditugaskan untuk membuat UI dari aplikasi tersebut. Fitur yang terdapat didalam aplikasi tersebut adalah:
+1. _User_ bisa melihat lokasi _User_ yang terjangkit COVID.
+2. _User_ bisa melihat lokasi penyebab seorang _user_ bisa terpapar
+3. _User_ bisa melihat _live update_ tentang COVID di indonesia
+
+#### Wireframe:
+
+| Splash Screen      | Welcome Screen         | Sign In       | One More Step page      |
+| ------------- |-------------| -------------| ------------- |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/Splash%20Screen.jpg "Splash Screen") | ![Welcome Screen](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/Welcome%20Screen.jpg "Welcome Screen") | ![Sign In](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/Sign%20In.jpg "Sign In") |  ![One More Step](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/One%20More%20Step.jpg "One More Step") |
+
+| What is this page      | Main menu         | Maps        |
+| ------------- | ------------- | -------------|
+| ![What is this page](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/What%20is%20This.jpg "What is this page") | ![Main Menu](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/Main%20Menu.jpg "Main Menu") | ![Maps](https://Stevenodolf.github.io/StevenPortfolio/images/SoSVirus/Map.jpg "Maps") |
+
+## [Project 6: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Alif Winanda
@@ -101,7 +141,7 @@ Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, 
 ![Homepage 1](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
 ![Homepage 2](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
 
-## [Project 5: BSSC Website (BINUS Square Student Committee)](https://www.bssc.or.id/)
+## [Project 7: BSSC Website (BINUS Square Student Committee)](https://www.bssc.or.id/)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Steven Odolf Yuwono (Project Director & Design Team)
@@ -126,7 +166,7 @@ Pada proyek ini, saya berkontribusi di dalam mengatur tim dan mengawasi project 
 | ------------- | ------------- |
 | ![Division](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Division.png "Division") | ![Event](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Events%20Page.png "Event") |
 
-## [Project 6: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
+## [Project 8: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Albert Lilian Thamson (2201754412)
@@ -156,7 +196,7 @@ Kontribusi saya dalam proyek ini adalah saya membantu di bagian coding beserta m
 ![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/acc(90).png "Accuracy")
 ![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/percobaan(90).png "Percobaan")
 
-## [Project 7: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
+## [Project 9: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Penjelasan:
 Wine Classification adalah tugas akhir di penjurusan AI semester 3. Wine Classification adalah sebuah program yang bisa mengklasifikasikan kualitas wine berdasarkan beberapa kategori yaitu volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol. Algorithm yang dipakai adalah BPNN, Output dari classification ini merupakan accuracy dari algorithm tersebut.
