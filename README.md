@@ -96,7 +96,7 @@ Proyek ini adalah proyek untuk UTS. Saya diberikan tugas untuk membuat sebuah UI
 
 | Splash Screen      | Welcome Screen         | Sign In       | Main Menu (Advocate or notary)       |
 | ------------- |-------------| -------------| ------------- |
-| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Splash%20Screen.png "Splash Screen") | ![Welcome Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Welcome%20Screen.png "Welcome Screen") | ![Sign In](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Sign%20In.png "Sign In") |  ![Main Menu 1](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Professional-Notary%2C%20Click.png "Main Menu (Advocate or notary)") |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Splash%20Screen.png "Splash Screen") | ![Welcome Screen](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Welcome%20Screen.png "Welcome Screen") | ![Sign In](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Sign%20In.png "Sign In") |  ![Main Menu 1](https://Stevenodolf.github.io/StevenPortfolio/images/PopLegal/Main%20Menu%20-%20Professional-Notary%20Tab.png "Main Menu (Advocate or notary)") |
 
 | Main Menu (Chat)     | Main Menu (Feedback)        | Main Menu (Personal Tab Info)       | Feedback Screen        |
 | ------------- |-------------| -------------| ------------- |
@@ -204,3 +204,33 @@ Wine Classification adalah tugas akhir di penjurusan AI semester 3. Wine Classif
 #### Percobaan:
 
 ![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/ANN/Accuracy.jpg "Accuracy")
+Dari hasil percobaan yang telah saya lakukan, bahwa accuracy dari algorithm ini adalah sebesar 48.28%
+
+## [Project 10: The Relationship between People’s Music Preferences and Their Health Lifestyle](https://github.com/Stevenodolf/PeopleMusicRelationship)
+#### Team:
+1. Albert Lilian Thamson (2201754412)
+2. Daniel Santoso (2201756506)
+3. Luwis Lim (2201761771)
+4. Steven Odolf Yuwono (2201758045)
+
+#### Penjelasan:
+Proyek ini adalah proyek final saya di semester 4. Jadi proyek ini kita melakukan research apakah ada hubungan antara preferensi musik seseorang dengan gaya hidup kesehatannya, terutama merokok.
+Metode yang kita pakai yaitu:
+1. Linear Regression
+2. Polynomial Regression
+3. Support Vector Machine (SVM)
+4. Decision Tree
+5. K-th Nearest Neigbour (KNN)
+6. Random Forest
+
+#### Kontribusi saya:
+kontribusi saya dalam proyek ini adalah saya membantu dalam hal _brainstorming_, _research_, dan juga melakukan coding (Linear Regression dan Decision Tree).
+
+#### Percobaan:
+Hasil dari percobaan yang kita lakukan adalah dari beberapa metode yang kita pakai ternyata yang paling bagus dan akurat adalah Random Forest. Hasil dari random forest menunjukkan bahwa hubungan preferensi musik warga slovakia dengan gaya hidup kesehatannya mempunyai akurasi 66.59%, sedangkan preferensi musik warga indonesia dengan gaya hidup kesehatannya mempunyai akurasi 93%. Kesimpulan yang kita dapat dari proyek ini adalah tidak ada hubungan antara gaya hidup kesehatannya dengan preferensi musik:
+
+Slovakia:
+![Slovakia](https://Stevenodolf.github.io/StevenPortfolio/images/PeopleMusicPreference/Slovakia.png "Slovakia")
+
+Indonesia:
+![Homepage](https://Stevenodolf.github.io/StevenPortfolio/images/PeopleMusicPreference/Indonesia.png "Homepage")
