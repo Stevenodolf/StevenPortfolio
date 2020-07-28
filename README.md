@@ -28,8 +28,37 @@ Pada proyek ini, saya berkontribusi di ide yaitu membuat aplikasi tentang diabet
 | ------------- | ------------- |
 | ![Challenges](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Challenge.png "Challenges") | ![Description Recipe](https://Stevenodolf.github.io/StevenPortfolio/images/ByeDiabet/Desc%20Breakfast.png "Description Recipe") |
 
+## Project 2: SportsVille(Entrepreneurship)
+#### Team:
+1. Albert Salim (2201740621)
+2. Bismo Asyura Widianto (2201785595)
+3. David Tanady (2201729581)
+4. Jennifer Dameria (2201853753)
+5. Nurul Alyannisa (2201790191)
+6. Kezia Auryn (2201763120)
+7. Steven Odolf Yuwono (2201758045)
 
-## Project 2: Transetter(Software Engineering)
+#### Penjelasan:
+SportsVille adalah sebuah aplikasi berbasis _mobile_ dimana kita bisa memesan lapangan olahraga tanpa perlu datang ke tempatnya. Selain memesan, kita juga dapat melihat informasi seputar lapangan tersebut misalnya di tempat tersebut adakah lapangan yang kosong atau tidak, lapangan tersebut buka atau tidak. Kita juga bisa langsung melakukan transaksi dari aplikasi ini.
+
+#### Kontribusi saya:
+Pada proyek ini, saya berkontribusi di dalam pembentukkan sebagian besar wireframe, _brainstorming_, dan melakukan research.
+
+#### Wireframe:
+
+| Splash Screen      | Welcome Page         | Login Page       | Create Account        |
+| ------------- |-------------| -------------| ------------- |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Landing%20Page.png "Splash Screen") | ![Welcome Page](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Welcome%20Page.png "Welcome Page") | ![Login Page](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Log%20In%20Page.png "Login Page") |  ![Create Account](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Create%20Account%20Page%20(1).png "Create Account") |
+
+| Explore Page      | Search Fields        | Booking      | Payment 1        |
+| ------------- |-------------| -------------| -------------|
+| ![Explore Page](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Explore%20Futsal%20Fields.png "Explore") | ![Search Fields](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Search%20Fields.png "Search Fields") | ![Booking](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/6%20Filters%20%26%20Search.png "Booking") |  ![Payment 1](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/1%20Checkout%20-%20Payment%20screens.png "Payment 1") |
+
+| Payment 2      | Settings        |
+| ------------- | ------------- |
+| ![Payment 2](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/9%20Checkout%20-%20Payment%20screens.png "Payment 2") | ![Settings](https://Stevenodolf.github.io/StevenPortfolio/images/SportVille/Settings.png "Settings") |
+
+## Project 3: Transetter(Software Engineering)
 #### Team:
 1. Albert Lilian Thamson (2201754412)
 2. Daniel Santoso (2201756506)
@@ -48,14 +77,14 @@ Pada proyek ini, saya berkontribusi di dalam pembentukkan wireframe untuk aplika
 
 | Splash Screen      | Main Menu         | Saved Place        |
 | ------------- |-------------| -------------|
-| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/Splash%20Screen.jpg "Splash Screen") | ![Main Menu](https://Stevenodolf.github.io/StevenPortfolio/images/Main%20Menu.jpg "Main Menu") | ![Saved Place](https://Stevenodolf.github.io/StevenPortfolio/images/Saved%20Place.jpg "Saved Place") |
+| ![Splash Screen](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Splash%20Screen.jpg "Splash Screen") | ![Main Menu](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Main%20Menu.jpg "Main Menu") | ![Saved Place](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Saved%20Place.jpg "Saved Place") |
 
 
 | Select Destination      | Select Transportation         | Navigation        |
 | ------------- | ------------- | -------------|
-| ![Select Destination](https://Stevenodolf.github.io/StevenPortfolio/images/Destination%20Screen.jpg "Select Destination") | ![Select Transportation](https://Stevenodolf.github.io/StevenPortfolio/images/Select%20Transportation.jpg "Select Transportation") | ![Navigation](https://Stevenodolf.github.io/StevenPortfolio/images/Navigation.jpg "Navigation") |
+| ![Select Destination](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Destination%20Screen.jpg "Select Destination") | ![Select Transportation](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Select%20Transportation.jpg "Select Transportation") | ![Navigation](https://Stevenodolf.github.io/StevenPortfolio/images/Transetter/Navigation.jpg "Navigation") |
 
-## [Project 3: Bama Studio Website(Human and Computer Interaction)](https://github.com/Stevenodolf/Stevenodolf-BamaStudio-Project)
+## [Project 4: Bama Studio Website(Human and Computer Interaction)](https://github.com/Stevenodolf/Stevenodolf-BamaStudio-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Penjelasan:
 Bama Studio Website adalah sebuah proyek Quiz. Jadi diceritakkan Bama Studio ini ingin membuat sebuah website untuk mempromosikkan jualannya yaitu tas. Bama Studio juga akan mengeluarkan tas edisi terbarunya, jadi dia mau membuat website untuk mempromosikkan tas nya yang akan segera di keluarkan dalam waktu dekat.
@@ -68,7 +97,7 @@ Bama Studio Website adalah sebuah proyek Quiz. Jadi diceritakkan Bama Studio ini
 ![Bama 4](https://Stevenodolf.github.io/StevenPortfolio/images/Bama%20Studio/Bama%204.jpg "Bama 4")
 
 
-## [Project 4: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
+## [Project 5: Xtream Chaser Website (Human and Computer Interaction)](https://github.com/Stevenodolf/XtremeWebsite-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Alif Winanda
@@ -85,7 +114,7 @@ Pada proyek ini, saya berkontribusi di dalam pembuatan design Homepage, navbar, 
 ![Homepage 1](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%201.png "Homepage 1")
 ![Homepage 2](https://Stevenodolf.github.io/StevenPortfolio/images/XtreamChaser/XtreamChaser%202.png "Homepage 2")
 
-## [Project 5: BSSC Website (BINUS Square Student Committee)](https://www.bssc.or.id/)
+## [Project 6: BSSC Website (BINUS Square Student Committee)](https://www.bssc.or.id/)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Steven Odolf Yuwono (Project Director & Design Team)
@@ -110,7 +139,7 @@ Pada proyek ini, saya berkontribusi di dalam mengatur tim dan mengawasi project 
 | ------------- | ------------- |
 | ![Division](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Division.png "Division") | ![Event](https://Stevenodolf.github.io/StevenPortfolio/images/BSSC/Events%20Page.png "Event") |
 
-## [Project 6: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
+## [Project 7: Indonesia Profanity Checker (Natural Language Processing)](https://github.com/Stevenodolf/IndonesiaProfanityChecker-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Team:
 1. Albert Lilian Thamson (2201754412)
@@ -140,7 +169,7 @@ Kontribusi saya dalam proyek ini adalah saya membantu di bagian coding beserta m
 ![Accuracy](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/acc(90).png "Accuracy")
 ![Percobaan](https://Stevenodolf.github.io/StevenPortfolio/images/NLP/90/percobaan(90).png "Percobaan")
 
-## [Project 7: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
+## [Project 8: Wine Classification (Artificial Neural Network)](https://github.com/Stevenodolf/WineClassification-Project)
 _**Klik judul diatas untuk membuka link proyek**_
 #### Penjelasan:
 Wine Classification adalah sebuah program yang bisa mengklasifikasikan kualitas wine berdasarkan beberapa kategori yaitu volatile acidity, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol. Algorithm yang dipakai adalah BPNN, Output dari classification ini merupakan accuracy dari algorithm tersebut.
