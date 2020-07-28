@@ -111,7 +111,7 @@ Proyek ini adalah proyek untuk UTS. Saya diberikan tugas untuk membuat sebuah UI
 #### Penjelasan:
 Proyek ini adalah proyek untuk UTS. Untuk mengatasi penyebaran corona, pemerintah akan membuat sebuah aplikasi _tracking_ COVID-19. saya ditugaskan untuk membuat UI dari aplikasi tersebut. Fitur yang terdapat didalam aplikasi tersebut adalah:
 1. _User_ bisa melihat lokasi _User_ yang terjangkit COVID.
-2. _User_ bisa melihat lokasi penyebab seorang _user_ bisa terpapar
+2. _User_ bisa melihat penyebab seorang _user_ bisa terpapar
 3. _User_ bisa melihat _live update_ tentang COVID di indonesia
 
 #### Wireframe:
